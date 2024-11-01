@@ -1,0 +1,21 @@
+.twitter-gallery-item {
+	background-color:#ECECEC;
+	border:1px solid #999999;
+	display:block;
+	float:left;
+	font-family:Georgia,serif;
+	font-size:12px;	
+	height:96px;
+	margin:7px;
+	overflow:hidden;
+	padding:6px 6px 8px;
+	width:75px;
+}
+
+.twitter-gallery-item a {font-size:10px;clear;both;}
+.twitter-gallery-item p {font-size:10px;line-height:18px;}
+.twitter-gallery-archive-item {background-color:#EEE;}
+
+#twitter-gallery {background-color:#FFF;padding:15px;overflow:hidden;}
+#twitter-gallery-images {padding-top:4px;}
+#twitter-gallery-loading {margin:0;padding:8px;}
